@@ -1,4 +1,4 @@
-package com.sumedh.ExploreSpring.homeController;
+package com.sumedh.ExploreSpring.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
